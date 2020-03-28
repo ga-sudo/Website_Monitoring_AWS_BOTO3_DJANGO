@@ -70,8 +70,8 @@ class infrastructure:
                 print("The Lambda Function already exists.")
 
         payload = {
-            "Name1":"Yash",
-            "Name2":"Shivansh"
+            "Name1":"Revant",
+            "Name2":"Garima"
         }
 
         try:
